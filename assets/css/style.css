@@ -484,7 +484,37 @@ section {
 
 @media screen and (max-width : 1500px) {
   #portfolio {
-    height: 350rem;
+    height: 298rem;
+  }
+}
+@media screen and (max-width : 992px) {
+  #portfolio {
+    height: 312rem;
+  }
+}
+@media screen and (max-width : 767px) {
+  #portfolio {
+    height: 333rem;
+  }
+}
+@media screen and (max-width : 460px) {
+  #portfolio {
+    height: 331rem;
+  }
+}
+@media screen and (max-width : 430px) {
+  #portfolio {
+    height: 340rem;
+  }
+}
+@media screen and (max-width : 400px) {
+  #portfolio {
+    height: 345rem;
+  }
+}
+@media screen and (max-width : 375px) {
+  #portfolio {
+    height: 355rem;
   }
 }
 
